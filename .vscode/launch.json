@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "array_list",
+      "request": "launch",
+      "mainClass": "ArrayList.array_list",
+      "projectName": "JavaBasics_4ee448d8"
+    },
+    {
+      "type": "java",
       "name": "Arrays",
       "request": "launch",
       "mainClass": "Arrays",
